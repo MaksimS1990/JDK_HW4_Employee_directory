@@ -1,2 +1,5 @@
-package homework04;public interface Printable {
+package homework04;
+
+public interface Printable {
+    void print();
 }
